@@ -2,9 +2,7 @@
 
 ### HTML
 
-- For the HTML exercises, I heavily relied on the videos and solutions
-  for help. I did attempt some on my own, but then watched all the
-  videos and followed along/modified my code.
+- For the HTML exercises, I heavily relied on the videos and solutions for help. I did attempt some on my own, but then watched all the videos and followed along/modified my code.
 
 - I haven't looked at homework 1 yet, but in general, I found these exercises to be very helpful. I liked the first exercise as it felt the easiest to grasp. It felt easily doable after the lecture content on lists.
 
@@ -14,4 +12,4 @@
 
 ### Accessibility
 
-Enter your reflections on this section here.
+Combination of using notes an doing it on my own and video.
