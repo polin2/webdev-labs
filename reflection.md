@@ -12,4 +12,30 @@
 
 ### Accessibility
 
-Combination of using notes an doing it on my own and video.
+- For the Accessibility exercises, I did a combination of using my lecture notes to try it out first, and then following along with the video.
+
+- I found all the exercises to be quite helpful, and I found I looked back on them when doing my homework assignment.
+
+- I found the lectures and readings for accessibility to be comprehensive and thorough.
+
+- There are no additional exercises that I can think of to cover the content better.
+
+### CSS
+
+- For the CSS exercises, I did a follow-along style with the videos, where I coded while following along with the videos and pausing to try things out as needed.
+
+- I found the exercises to be very helpful and in direct correlation with what the lectures covered. I found the positioning exercise to be particularly helpful because I feel like I didn't quite grasp the concept from the lecture alone.
+
+- Everything was explained well and thoroughly.
+
+- At the moment, I cannot think of any other exercises that might have helped me learn CSS better.
+
+### Flexbox
+
+❏ Were you able to complete the exercises on your own or did you use the
+videos or the solutions for help?
+❏ How helpful did you find the exercises in this section? Was there one
+exercise that was particularly helpful?
+❏ Was there something that you wish had been explained better?
+❏ Were there other exercises that might have helped you learn this week’s
+topic a little better?

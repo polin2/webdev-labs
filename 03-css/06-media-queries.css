@@ -1,3 +1,60 @@
+nav {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  background-color: var(--black);
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+nav ul li a {
+  display: block;
+
+  padding: 1em;
+  color: var(--white);
+  text-decoration: none;
+}
+
+nav ul li:hover {
+  background-color: var(--gray1);
+}
+
+.main {
+  margin-top: 100px;
+  padding: 0 0.5em;
+}
+
+body {
+  background: var(--purple);
+  color: var(--white);
+}
+
+@media (max-width: 414px) {
+  nav ul li {
+    width: 100%;
+  }
+
+  .main {
+    margin-top: 220px;
+  }
+}
+
+@media (min-width: 415px) and (max-width: 1024px) {
+  body {
+    background: var(--orange);
+    color: var(--black);
+  }
+}
+
 @media (min-width: 1024px) {
   body {
     background: var(--green);
