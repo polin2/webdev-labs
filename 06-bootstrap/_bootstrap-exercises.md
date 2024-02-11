@@ -9,7 +9,7 @@
 
 Recreate the layout below using Boostrap card classes.
 
-<img src="../../_assets/bootstrap-exercises/bootstrap-ex01-cards.png" height=200 alt="screenshot of a card layout">
+<img src="../_assets/bootstrap-exercises/bootstrap-ex01-cards.png" height=200 alt="screenshot of a card layout">
 
 ## <a id="ex02"></a> Exercise 02 - Grid
 
