@@ -29,8 +29,8 @@
 
 /* Flex Container 4 */
 
-.flex-container-3 {
-  display: flex; /* not necessary */
+.flex-container-4 {
+  display: flex;
   flex-flow: row wrap-reverse;
   justify-content: space-evenly;
 }
@@ -55,14 +55,13 @@
 
 /* Flex Container 6 */
 
-.flex-container-6 .flex-item {
-  width: 400px;
-}
-
 /* use height: 300px; on the container */
 
 .flex-container-6 {
   height: 300px;
-  display: flex;
   flex-flow: column wrap;
+}
+
+.flex-container-6 .flex-item {
+  width: 400px;
 }
