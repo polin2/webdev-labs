@@ -1,18 +1,57 @@
 .flex-container {
+  display: flex;
   background-color: rgb(190, 190, 231);
 }
 
 /* Flex Container 1 */
 
+.flex-container-1 {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 /* Flex Container 2 */
 
-/* Flex Container 3 */
+.flex-container-2 {
+  display: flex;
+  flex-flow: row-reverse wrap;
+}
 
+/* Flex Container 3 */
 /* use height: 400px; on the container */
+
+.flex-container-3 {
+  height: 400px;
+  flex-flow: column-reverse wrap;
+  align-items: flex-end;
+}
 
 /* Flex Container 4 */
 
+.flex-container-3 {
+  display: flex; /* not necessary */
+  flex-flow: row wrap-reverse;
+  justify-content: space-evenly;
+}
+
 /* Flex Container 5 */
+
+.flex-container-5 {
+  display: flex;
+  align-items: center;
+}
+
+.flex-container-5 .item1,
+.flex-container-5 .item3,
+.flex-container-5 .item6 {
+  height: 150px;
+}
+
+.flex-container-5 .item2,
+.flex-container-5 .item8 {
+  height: 250px;
+}
 
 /* Flex Container 6 */
 
@@ -21,3 +60,9 @@
 }
 
 /* use height: 300px; on the container */
+
+.flex-container-6 {
+  height: 300px;
+  display: flex;
+  flex-flow: column wrap;
+}
