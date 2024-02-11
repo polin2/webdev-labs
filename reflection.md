@@ -32,6 +32,10 @@
 
 ### Flexbox
 
+
+
+
+
 ❏ Were you able to complete the exercises on your own or did you use the
 videos or the solutions for help?
 ❏ How helpful did you find the exercises in this section? Was there one
