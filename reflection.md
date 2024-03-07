@@ -8,7 +8,7 @@
 
 - Everything was explained well. There was a lot of content covered, but I can't think of anything I wish was explained better.
 
-- I think it would've been nice if there was an easier form exercise - either in addition to this one or instead, do it because this one felt like jumping into the deep end.
+- I think it would've been nice if there was an easier form exercise - either in addition to this one or instead, do it because this one felt like jumping into the deep end at least for me.
 
 ### Accessibility
 
