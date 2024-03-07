@@ -52,7 +52,7 @@
 
 ### Bootstrap
 
-- For the CSS-grid exercises, I attempted to do the card exercise on my own and then did a follow-along style for the rest of the exercises and corrected my card work by watching the card video.
+- For the Bootstrap exercises, I attempted to do the card exercise on my own and then did a follow-along style for the rest of the exercises and corrected my card work by watching the card video.
 
 - I found the exercises helpful, particularly the cards one since we had that in the homework.
 
