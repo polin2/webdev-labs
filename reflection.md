@@ -31,10 +31,37 @@
 - At the moment, I cannot think of any other exercises that might have helped me learn CSS better.
 
 ### Flexbox
+- For the Flexbox exercises, I first attempted to do it all on my own. It didn't quite look like it was supposed to, so then I watched the videos.
+
+- I found the exercises to be helpful. There was only one exercise, but it did help a lot with the understanding.
+
+- Everything was explained well and thoroughly.
+
+- No, I cannot think of other exercises that might have helped me learn this week’s topic a little better.
+
+### CSS-grid
+- For the CSS-grid exercises, I attempted the first exercise on my own first, and then I watched the videos and changed my code/followed along.
+
+- I found the exercises very helpful. I liked the first exercise because after the first container, I feel like I understood the concept, but have 3 more containers to test and learn if I knew it was effective
+
+- Everything was explained well and thoroughly.
+
+-There are no additional exercises that I can think of to cover the content better.
+
+### Bootstrap
+- For the CSS-grid exercises, I attempted to do the card exercise on my own and then did a follow-along style for the rest of the exercises and corrected my card work by watching the card video.
+
+- I found the exercises helpful, particularly the cards one since we had that in the homework.
+
+- Everything was explained well and thoroughly.
+
+- No, I cannot think of other exercises that might have helped me learn this week’s topic a little better.
+
+### Javascript
 
 
 
-
+### Jquery
 
 ❏ Were you able to complete the exercises on your own or did you use the
 videos or the solutions for help?
