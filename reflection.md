@@ -31,6 +31,7 @@
 - At the moment, I cannot think of any other exercises that might have helped me learn CSS better.
 
 ### Flexbox
+
 - For the Flexbox exercises, I first attempted to do it all on my own. It didn't quite look like it was supposed to, so then I watched the videos.
 
 - I found the exercises to be helpful. There was only one exercise, but it did help a lot with the understanding.
@@ -40,6 +41,7 @@
 - No, I cannot think of other exercises that might have helped me learn this week’s topic a little better.
 
 ### CSS-grid
+
 - For the CSS-grid exercises, I attempted the first exercise on my own first, and then I watched the videos and changed my code/followed along.
 
 - I found the exercises very helpful. I liked the first exercise because after the first container, I feel like I understood the concept, but have 3 more containers to test and learn if I knew it was effective
@@ -49,6 +51,7 @@
 -There are no additional exercises that I can think of to cover the content better.
 
 ### Bootstrap
+
 - For the CSS-grid exercises, I attempted to do the card exercise on my own and then did a follow-along style for the rest of the exercises and corrected my card work by watching the card video.
 
 - I found the exercises helpful, particularly the cards one since we had that in the homework.
@@ -59,14 +62,20 @@
 
 ### Javascript
 
+- For the Javascript exercises, I did the replace and format exercise on my own first and then did a follow-along style for the rest of the exercises.
 
+- I found all the exercises to be helpful, and I did end up looking back at them often when doing my homework assignment.
+
+- Everything was explained well and thoroughly.
+
+- There are no additional exercises that I can think of to cover the content better.
 
 ### Jquery
 
-❏ Were you able to complete the exercises on your own or did you use the
-videos or the solutions for help?
-❏ How helpful did you find the exercises in this section? Was there one
-exercise that was particularly helpful?
-❏ Was there something that you wish had been explained better?
-❏ Were there other exercises that might have helped you learn this week’s
-topic a little better?
+- For the Jquery exercises, I started the dom exercise on my own, but when I got stuck I switched to doing a follow-along style with the dom and the ajax exercises.
+
+- I think all the exercises were helpful. No specific one that I found particularly helpful.
+
+- Everything was explained well and thoroughly.
+
+- Even though it was explained well, I'm not sure I fully grasped ajax. I wish there was another short exercise for that.
